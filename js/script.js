@@ -15,6 +15,7 @@ const windtyElement = document.querySelector("#wind span");
 
 const weatherContainer = document.querySelector("#weather-data");
 
+
 //Funções
 
 const getWeatherData = async(city) => {
